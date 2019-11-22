@@ -1,0 +1,3 @@
+/data/telloproject-HaEunMok/build/CMakeFiles/rebuild_cache.dir
+/data/telloproject-HaEunMok/build/CMakeFiles/TelloPro.dir
+/data/telloproject-HaEunMok/build/CMakeFiles/edit_cache.dir
